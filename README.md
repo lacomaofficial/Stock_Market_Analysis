@@ -28,6 +28,9 @@ This Python tool provides functionality for analyzing stock market data and gene
 3. **Visualize Trading Signals**: Plot trading signals using `plot_trading_signals` and `plot_combined_signals` functions.
 4. **Compare Short-term and Long-term Signals**: Use `calculate_short_term_indicators` to compute short-term indicators and `compare_signals` to visualize the comparison.
 
+![image](https://github.com/lacomaofficial/Time_Series/assets/132283879/13ed4013-fd78-40b1-89a4-4480e426ebc2)
+
+
 ### Example
 ```python
 ticker = 'NVDA'
