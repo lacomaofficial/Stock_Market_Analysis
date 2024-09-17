@@ -26,22 +26,22 @@ This Python tool provides functionality for analyzing stock market data and gene
 
 ## Usage
 
-### 1. Stock Market Data Retrieval
+1. Stock Market Data Retrieval
 
-### 2. Generate Trading Signals
+2. Generate Trading Signals
 
-### 3. Visualize Trading Signals
+3. Visualize Trading Signals
 
-### 4. Compare Short-term and Long-term Signals
+4. Compare Short-term and Long-term Signals
 
-### 5. Sentiment Analysis
+5. Sentiment Analysis
 
-### 6. Time Series Forecasting with Meta Prophet
+6. Time Series Forecasting with Meta Prophet
 
 ![image](https://github.com/lacomaofficial/Stock_Market_Analysis/assets/132283879/30099265-7d96-4f46-aac3-6b13a211b350)
 
 
-### Stock Markey Analysis App
+### Stock Market Analysis App
 1. **Finding the Company Name**: To look up a company's name on Yahoo Finance, use this link: [Yahoo Finance Nikkei 225](https://finance.yahoo.com/quote/%5EN225/). For example, to find Nike's ticker, you would use ^N225.
 
 2. **Interpreting the Charts**:
